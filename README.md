@@ -6,3 +6,5 @@
 - 🕹️ I like to play Videogames
 - 🟧 Orange is my favourite color
 - 👨🏻‍🏫 Diego is the best teacher 😉
+- ⚡ Fun fact: "How many programmers does it take to change a light bulb?
+                None – It’s a hardware problem."
