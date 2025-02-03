@@ -6,6 +6,14 @@
 
 ###
 
+<h1 align="center">💫 About Me:</h1>
+
+###
+
+<h2 align="center">🌱 I’m currently studing 2º CFGSDesarrollo de Aplicaciones Multiplatadorma<br>📫 How to reach me josemanuelluquegonzalez@gmail.com</h2>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JoseManuelLuque.JoseManuelLuque&left_color=darkorange&right_color=orange"  />
 </div>
@@ -13,11 +21,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseManuelLuque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JoseManuelLuque&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseManuelLuque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JoseManuelLuque&theme=onedark&margin-h=0&margin-w=8" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelLuque&radius=100&area=true&hide_title=false&theme=elegant" height="400" alt="activity-graph graph"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/josé-manuel-luque-gonzález-633ab4252" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <a href="https://www.hackerrank.com/profile/jluqgon214" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/23327785/josé-manuel-luque" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
@@ -89,21 +103,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="www.linkedin.com/in/josé-manuel-luque-gonzález-633ab4252" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JoseManuelLuque/JoseManuelLuque/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=JoseManuelLuque&theme=codeSTACKr" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseManuelLuque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoseManuelLuque&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseManuelLuque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JoseManuelLuque&theme=onedark&margin-h=0&margin-w=8" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelLuque&radius=100&area=true&hide_title=false&theme=elegant" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
