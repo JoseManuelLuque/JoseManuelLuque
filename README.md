@@ -34,6 +34,9 @@
   <a href="https://stackoverflow.com/users/23327785/josé-manuel-luque" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href="https://developers.google.com/profile/u/101390733347755670653?hl=es-419" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Android&logo=android&label=&color=00a63d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="android logo"  />
+  </a>
 </div>
 
 ###
