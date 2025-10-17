@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">🌱 I’m currently studing 2º CFGSDesarrollo de Aplicaciones Multiplatadorma<br>📫 How to reach me josemanuelluquegonzalez@gmail.com</h2>
+<h2 align="center">🌱 I’m currently studing 2º C.F.G.S. Desarrollo de Aplicaciones Multiplataforma (Multiplatform Developer)<br>📫 How to reach me josemanuelluquegonzalez@gmail.com</h2>
 
 ###
 
