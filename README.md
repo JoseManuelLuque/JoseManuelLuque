@@ -1,3 +1,23 @@
+<div style="text-align:center;">
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="cursor:pointer; transition:0.4s;">
+  <style>
+    svg:hover path {
+      stroke: #FF6A00; /* Naranja expresivo al pasar el ratón */
+      stroke-width: 3;
+      transform: scale(1.06);
+      filter: drop-shadow(0 0 4px #FF6A00);
+    }
+  </style>
+
+  <!-- Trazo principal del avatar, simplificado y limpio -->
+  <path d="M110 20C140 20 165 45 165 75C165 105 140 130 110 130C80 130 55 105 55 75C55 45 80 20 110 20Z
+           M110 130C150 130 180 155 185 190H35C40 155 70 130 110 130Z"
+        stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+</svg>
+</div>
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif?raw=1" width="50%" />
   
